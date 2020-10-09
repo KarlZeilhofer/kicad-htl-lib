@@ -1,0 +1,19 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# ARROW
+#
+DEF ARROW %ARROW 0 0 N Y 1 F N
+F0 "%ARROW" 100 0 50 V I C CNN
+F1 "ARROW" -100 0 50 V I C CNN
+F2 "" -70 0 50 V I C CNN
+F3 "" 0 -20 50 H I C CNN
+$FPLIST
+ R_*
+$ENDFPLIST
+DRAW
+P 4 0 1 0 0 -20 -20 40 20 40 0 -20 F
+ENDDRAW
+ENDDEF
+#
+#End Library
