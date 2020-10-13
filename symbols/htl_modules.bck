@@ -25,8 +25,8 @@ F http://wiki.ai-thinker.com/_media/esp8266/esp8266_series_modules_user_manual_v
 $ENDCMP
 #
 $CMP UT-0206-P05
-D OLED Display Driver, e.g. for LCSC Nr. C85007, Driver: SSD1306
-K Display LCD OLED SSD1306
+D OLED Display Driver, e.g. for LCSC Nr. C85007
+K Display LCD OLED
 F https://datasheet.lcsc.com/szlcsc/1811151642_Shenzhen-Allvision-Tech-QG-2864KSWEG01_C85007.pdf
 $ENDCMP
 #
