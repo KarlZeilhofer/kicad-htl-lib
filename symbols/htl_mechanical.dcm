@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Drahtbruecke
+D Jumper, 2-pole, closed/bridged
+K Jumper SPST
+F ~
+$ENDCMP
+#
+#End Doc Library
