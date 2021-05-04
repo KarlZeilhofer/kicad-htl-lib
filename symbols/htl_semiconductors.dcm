@@ -1,5 +1,21 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP D_Schottky
+D Schottky diode
+K diode Schottky
+F ~
+$ENDCMP
+#
+$CMP DiodeTVS
+D Diode zener
+K DEV DIODE
+$ENDCMP
+#
+$CMP DiodeTVS_Bidirek
+D Diode zener
+K DEV DIODE
+$ENDCMP
+#
 $CMP LED_Dual_green-red
 D Dual LED, cathodes on pins 3 and 4
 K LED diode bicolor dual

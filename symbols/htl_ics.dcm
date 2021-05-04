@@ -6,4 +6,13 @@ K USB UART Serial Converter Interface
 F http://www.datasheet5.com/pdf-local-2195953
 $ENDCMP
 #
+$CMP PN7006A
+D Half Bridge Driver, 2 Inputs, 300V, 3.3V Inputs
+$ENDCMP
+#
+$CMP XL7005A
+D Tiefsetzsteller, 80V, 400mA, 85% Wirkungsgrad
+K stepdown switcher dc-dc
+$ENDCMP
+#
 #End Doc Library
