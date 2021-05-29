@@ -94,6 +94,12 @@ $CMP PN7006A
 D Half Bridge Driver, 2 Inputs, 300V, 3.3V Inputs
 $ENDCMP
 #
+$CMP TL431
+D Shunt Regulator, SOT-23
+K diode device shunt regulator
+F https://datasheet.lcsc.com/lcsc/1809211429_Guangdong-Hottech-TL431_C181103.pdf
+$ENDCMP
+#
 $CMP XL7005A
 D Tiefsetzsteller, 80V, 400mA, 85% Wirkungsgrad
 K stepdown switcher dc-dc
