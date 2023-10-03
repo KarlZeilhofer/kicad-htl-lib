@@ -84,6 +84,12 @@ K AVR 8bit Microcontroller MegaAVR
 F http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8025-8-bit-AVR-Microcontroller-ATmega48P-88P-168P_Datasheet.pdf
 $ENDCMP
 #
+$CMP CH340B
+D USB serial converter, UART, SOIC-16
+K USB UART Serial Converter Interface
+F https://www.mpja.com/download/35227cpdata.pdf
+$ENDCMP
+#
 $CMP CH340C
 D USB serial converter, UART, SOIC-16
 K USB UART Serial Converter Interface
